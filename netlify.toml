@@ -1,4 +1,5 @@
 [[redirects]]
   from = "https://apptest.photowax.com/*"
-  to = "https://apptest.photowax.com/test/:splat"
+  to = "https://app2.photowax.com/test/:splat"
   status = 200
+  force = true
