@@ -7,3 +7,5 @@ npm-debug.log
 .serverless/
 .env
 .serverless/photowax-api.zip
+out/
+.next/

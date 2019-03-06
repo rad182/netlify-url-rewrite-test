@@ -12,7 +12,11 @@
       "external \"next/error\"": 8,
       "multi ../../../n/lib/node_modules/next/dist/pages/_document.js": 9,
       "../../../n/lib/node_modules/next/dist/pages/_document.js": 10,
-      "external \"next/document\"": 11
+      "external \"next/document\"": 11,
+      "multi private-next-pages/index.js": 1,
+      "multi next/dist/pages/_app": 2,
+      "multi next/dist/pages/_error": 3,
+      "multi next/dist/pages/_document": 4
     },
     "usedIds": {
       "0": 0,
@@ -34,7 +38,15 @@
       "static/TXp7Trf3LjV2BkX3QWck7/pages/index.js": 0,
       "static/TXp7Trf3LjV2BkX3QWck7/pages/_app.js": 1,
       "static/TXp7Trf3LjV2BkX3QWck7/pages/_error.js": 2,
-      "static/TXp7Trf3LjV2BkX3QWck7/pages/_document.js": 3
+      "static/TXp7Trf3LjV2BkX3QWck7/pages/_document.js": 3,
+      "static/3lvyPQ9IOZik5ZTdW6a1W/pages/index.js": 4,
+      "static/3lvyPQ9IOZik5ZTdW6a1W/pages/_app.js": 5,
+      "static/3lvyPQ9IOZik5ZTdW6a1W/pages/_error.js": 6,
+      "static/3lvyPQ9IOZik5ZTdW6a1W/pages/_document.js": 7,
+      "static/U9hORFvTmVs~0TRkdFcac/pages/_app.js": 0,
+      "static/U9hORFvTmVs~0TRkdFcac/pages/_document.js": 1,
+      "static/U9hORFvTmVs~0TRkdFcac/pages/_error.js": 2,
+      "static/U9hORFvTmVs~0TRkdFcac/pages/index.js": 3
     },
     "bySource": {},
     "usedIds": [
