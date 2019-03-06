@@ -1,0 +1,5 @@
+[[redirects]]
+  from = "https://apptest.photowax.com/*"
+  to = "https://apptest.photowax.com/test/:splat"
+  status = 301
+  force = true
