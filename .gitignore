@@ -1,0 +1,9 @@
+node_modules/
+build/
+.webpack/
+npm-debug.log
+.DS_Store
+.envrc
+.serverless/
+.env
+.serverless/photowax-api.zip
